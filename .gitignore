@@ -1,6 +1,6 @@
 .idea
 bin
 obj
-input.txt
+input*.txt
 
 *DotSettings*

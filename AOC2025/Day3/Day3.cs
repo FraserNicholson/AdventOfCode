@@ -2,6 +2,7 @@ namespace AOC2025.Day3;
 
 public static class Day3
 {
+    // Needed ChatGPT to help with part 2
     public static long Answer()
     {
         var lines = File.ReadAllLines("./input.txt");

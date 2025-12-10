@@ -1,4 +1,4 @@
 ﻿
-using AOC2025.Day6;
+using AOC2025.Day7;
 
-Console.WriteLine(Day6.GetAnswerPart2());
+Console.WriteLine(Day7.GetAnswerPart2());
